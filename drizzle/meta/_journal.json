@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785100675432,
+      "tag": "0000_fair_nitro",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785101877146,
+      "tag": "0001_tiny_dakota_north",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785105714868,
+      "tag": "0002_fluffy_solo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1785107475446,
+      "tag": "0003_sparkling_galactus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1785363396586,
+      "tag": "0004_outgoing_machine_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1785363517804,
+      "tag": "0005_slippery_microchip",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1785364004225,
+      "tag": "0006_worried_lorna_dane",
+      "breakpoints": true
+    }
+  ]
+}
